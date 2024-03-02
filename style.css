@@ -1,0 +1,12 @@
+.container-box{
+   width: auto;
+   height: auto;
+   margin: auto;
+   color: white;
+   background: orange;
+border-radius: 20px;
+}
+h1{
+  border-bottom: 1px;
+}
+body{background: deepskyblue;
